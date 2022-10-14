@@ -1,0 +1,1 @@
+require '/Users/saritaradia/Desktop/Projects/bowling-challenge-ruby/lib/scorecard.rb'
